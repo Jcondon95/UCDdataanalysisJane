@@ -1,5 +1,9 @@
-print("welcome to ucd")
-print(2+3)
+import pandas
+
+data = pandas.read_csv("country_vaccinations.csv")
+print(data)
 
 
-print("hello")
+
+
+
