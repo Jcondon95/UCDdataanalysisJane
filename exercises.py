@@ -17,3 +17,4 @@ areas_1 = areas + ["poolhouse", 24.5]
 # Add garage data to areas_1, new list is areas_2
 areas_2 = areas_1 + ["garage", 15.45]
 
+print(areas_2)
